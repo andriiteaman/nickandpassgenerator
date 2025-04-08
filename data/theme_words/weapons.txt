@@ -1,0 +1,186 @@
+Axe
+Bomb
+Bow
+Bullet
+Cannon
+Crossbow
+Dagger
+Grenade
+Gun
+Hammer
+Hatchet
+Helicopter
+Howitzer
+Knife
+Laser
+Machinegun
+Missile
+Machete
+Pistol
+Rifle
+Rocket
+Saber
+Spear
+Sling
+Sniper
+Sword
+Tank
+Taser
+Torch
+Trident
+Uzi
+Vermin gun
+Weaponry
+Whip
+Zooka
+Assault
+Battering
+Bayonet
+Blunderbuss
+Blowtorch
+Caltrop
+Carbine
+Chakram
+Clubs
+Combat
+Crosier
+Dynamite
+Flamethrower
+Gatling
+Glaive
+Greataxe
+Hailstone
+Hunting rifle
+Javelin
+Kris
+Lance
+Maul
+Molotov
+Mortar
+Muskets
+Nailgun
+Nunchaku
+Pike
+Plasma gun
+Pistol-grip
+Poison
+Pulverizer
+Revolver
+Rocket launcher
+Shuriken
+Smoke bomb
+Spearhead
+Spiked
+Splatgun
+Springfield
+Stinger
+Stun gun
+Swordfish
+Tactical
+Torpedo
+Trench knife
+Truncheon
+Tsuba
+Viper
+Warhammer
+Whipstaff
+Wristblade
+AK-47
+Artillery
+Barrage
+Battleaxe
+Bazooka
+Blowgun
+Bombshell
+Breach
+Bunker buster
+Bulletproof
+Cartridge
+Cattle prod
+Claymore
+Cold steel
+Combat knife
+Concussion
+Cowcatcher
+Cyclone
+Dagger-axe
+Desert Eagle
+Double-barrel
+Dragunov
+Flashbang
+Forceps
+Fusil
+G36
+Glock
+Grenadier
+Gungnir
+Hedgehog
+Incendiary
+Ironclad
+Kettledrum
+Knuckle-duster
+Laser-guided
+M1 Garand
+Machete
+Molotov cocktail
+Nerf
+Ointment
+Pepperbox
+Plunger
+Poison dart
+Quickdraw
+Recoil
+Riot shield
+Scimitar
+Seeker
+Shiv
+Silencer
+Sledgehammer
+Spike
+Throwing knife
+Viking
+Warhead
+Wristgun
+Zapper
+Assault rifle
+Blowpipe
+Bomb launcher
+Breaching charge
+Bulletproof vest
+Catapult
+Cluster bomb
+Combat shotgun
+Crossbowman
+Explosives
+Firing pin
+Flare gun
+Garrote
+Harpoon
+Heavy gun
+Hollow-point
+IED
+Improvised
+Incendiary grenade
+Laser sight
+Luger
+M4 Carbine
+Machete sword
+Minigun
+Molotov cocktail
+Poisonous dart
+Recoil spring
+Remington
+Rope dart
+Sapper
+Scythe
+Shuriken star
+Snubnose revolver
+Spear gun
+Spearpoint
+Stinger missile
+Submachine gun
+Suppressor
+Tactical shotgun
+Tank cannon
+Throwing axe
+Trident spear

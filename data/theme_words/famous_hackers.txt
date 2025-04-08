@@ -1,0 +1,198 @@
+Anonymous
+LulzSec
+Kevin Mitnick
+Adrian Lamo
+Gary McKinnon
+Albert Gonzalez
+Jeanson James Ancheta
+Jonathan James
+Kevin Poulsen
+Julian Assange
+Chelsea Manning
+Edward Snowden
+Guccifer
+Guccifer 2.0
+The Shadow Brokers
+Equation Group
+APT28
+APT29
+Anonymous Sudan
+Weev
+Parastoo
+TeslaTeam
+RedHack
+Syrian Electronic Army
+Chaos Computer Club
+Phineas Fisher
+Mafiaboy
+Junaid Hussain
+CosmoTheGod
+Tessa88
+P4x
+Sabu
+Jeremy Hammond
+Barrett Brown
+Higinio Ochoa
+Lizard Squad
+TeaMp0isoN
+Hacktivist
+Cyberpunk
+Hackforums
+Rootkit
+Zero-day
+Backdoor
+Exploit
+SQL injection
+Phishing
+Social engineering
+Cryptojacking
+Ransomware
+DDoS
+Botnet
+Malware
+Keylogger
+Spyware
+Trojan
+Cybercrime
+Cyberwarfare
+Hacktivism
+Bug bounty
+Red team
+Black hat
+White hat
+Gray hat
+Defcon
+Black Hat USA
+CCC Congress
+Nullcon
+Infosec
+CVE
+Metasploit
+Wireshark
+Nmap
+Aircrack-ng
+Kali Linux
+Tor
+Tails
+Darknet
+Silk Road
+OpSec
+Threat actor
+TTPs
+C2 server
+Payload
+Shellcode
+Privilege escalation
+Remote code execution
+NSA leaks
+Stuxnet
+Flame
+Duqu
+Vault 7
+WikiLeaks
+Snowden leaks
+NSA
+CIA
+FBI
+GCHQ
+FVEY
+EquationGroup
+PRISM
+XKeyscore
+Carnivore
+Tempora
+Dragos
+Mandiant
+FireEye
+CrowdStrike
+HBGary
+BlueKeep
+EternalBlue
+NotPetya
+WannaCry
+Petya
+Sony hack
+Target breach
+Equifax breach
+Yahoo breach
+Capital One breach
+LinkedIn breach
+Facebook breach
+Cambridge Analytica
+RSA breach
+OPM breach
+Anthem breach
+Stolen credentials
+Credential stuffing
+Brute force
+Password spraying
+Cyber espionage
+Data leak
+Hack the Pentagon
+Bugcrowd
+HackerOne
+Red team exercise
+Penetration testing
+Vulnerability assessment
+APT
+SOC
+SIEM
+IDS
+IPS
+Firewall bypass
+MITM
+ARP spoofing
+DNS spoofing
+Packet sniffing
+Ethical hacking
+Social hack
+Hack tool
+Exploit kit
+Exploit DB
+Zero-day market
+Dark web
+Onion routing
+PGP
+Encryption
+Decryption
+Cryptography
+Cybersecurity
+Infowar
+Cyber ops
+Digital forensics
+Cyber intel
+Digital footprint
+Threat intelligence
+Cyber hygiene
+Digital identity
+Identity theft
+Hacktober
+Hacker manifesto
+Legion of Doom
+Masters of Deception
+Cult of the Dead Cow
+Shmoo Group
+Hack This Site
+Hackaday
+Zone-H
+Attrition
+Hacktivity
+HackBack
+Backdoor malware
+Logic bomb
+Zombie computer
+Bot herder
+Cyber militia
+Nation-state hacker
+Underground forum
+Leak
+Leaked source code
+Zero-day broker
+Cyber arms dealer
+Rogue hacker
+Elite hacker
+Script kiddie
+Haxor
+N00b
+Pwned
+1337

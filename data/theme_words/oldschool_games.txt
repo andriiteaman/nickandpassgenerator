@@ -1,0 +1,186 @@
+Doom
+Quake
+Wolfenstein
+Tetris
+Pong
+Pac-Man
+Galaga
+Centipede
+Space Invaders
+Donkey Kong
+Super Mario Bros
+Metroid
+The Legend of Zelda
+Castlevania
+Mega Man
+Contra
+Double Dragon
+Street Fighter II
+Mortal Kombat
+Tekken
+Virtua Fighter
+Final Fight
+Golden Axe
+Altered Beast
+Earthworm Jim
+Battletoads
+Prince of Persia
+Lemmings
+SimCity
+SimAnt
+SimTower
+SimEarth
+Civilization
+Theme Hospital
+RollerCoaster Tycoon
+Age of Empires
+Command and Conquer
+Red Alert
+Dune II
+Warcraft
+Starcraft
+Diablo
+Diablo II
+Baldur's Gate
+Icewind Dale
+Planescape: Torment
+Fallout
+Fallout 2
+Jagged Alliance
+X-COM
+Alone in the Dark
+Resident Evil
+Silent Hill
+Myst
+Riven
+Grim Fandango
+Monkey Island
+Day of the Tentacle
+Sam & Max Hit the Road
+Full Throttle
+King's Quest
+Police Quest
+Space Quest
+Leisure Suit Larry
+Zork
+Maniac Mansion
+Another World
+Flashback
+Out of This World
+Duke Nukem 3D
+Shadow Warrior
+Blood
+Hexen
+Heretic
+Dark Forces
+Descent
+System Shock
+System Shock 2
+Thief
+Thief II
+Deus Ex
+Unreal
+Unreal Tournament
+Half-Life
+Half-Life: Opposing Force
+Team Fortress Classic
+Counter-Strike
+Medal of Honor
+Call of Duty
+Return to Castle Wolfenstein
+Max Payne
+GTA
+GTA 2
+GTA III
+Mafia
+Carmageddon
+Need for Speed
+Need for Speed II
+Need for Speed III
+Test Drive
+Midtown Madness
+Driver
+Twisted Metal
+Road Rash
+Excitebike
+F-Zero
+Super Metroid
+Chrono Trigger
+Final Fantasy VI
+Final Fantasy VII
+Secret of Mana
+EarthBound
+Breath of Fire
+Phantasy Star
+Shining Force
+Fire Emblem
+Advance Wars
+Metal Slug
+Gunstar Heroes
+Ikari Warriors
+1942
+Gradius
+R-Type
+Raiden
+Xenon 2
+Tyrian
+Jazz Jackrabbit
+Commander Keen
+Cosmo's Cosmic Adventure
+Bio Menace
+The Lost Vikings
+Blackthorne
+Zool
+James Pond
+Cool Spot
+Aladdin
+The Lion King
+Mickey Mania
+Castle of Illusion
+DuckTales
+Chip 'n Dale Rescue Rangers
+Tiny Toon Adventures
+Batman
+Batman Returns
+Teenage Mutant Ninja Turtles
+Robocop
+Terminator
+Predator
+Alien vs Predator
+Ghosts 'n Goblins
+Ghouls 'n Ghosts
+Bionic Commando
+Punch-Out!!
+Mike Tyson's Punch-Out!!
+Excitebike
+Ice Climber
+Balloon Fight
+Dr. Mario
+Adventure Island
+Kid Icarus
+Kirby's Adventure
+Yoshi's Island
+Pilotwings
+Star Fox
+F-Zero
+OutRun
+After Burner
+Hang-On
+Virtua Cop
+Virtua Racing
+House of the Dead
+Crazy Taxi
+Jet Set Radio
+Sonic the Hedgehog
+Sonic 2
+Sonic 3 & Knuckles
+Streets of Rage
+Streets of Rage 2
+Shinobi
+Ninja Gaiden
+Tenchu
+Bushido Blade
+Fatal Fury
+Art of Fighting
+King of Fighters
+Samurai Shodown
