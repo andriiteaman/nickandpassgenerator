@@ -24,12 +24,14 @@ class Mushup:
 
                 mashup_word = part1 + part2
             else:
-                # Якщо одне з слів дуже коротке, просто поєднуємо їх
                 return word1 + word2
 
         else:
-            insert_index = random.randint(1, len(word1) - 1)
-            mashup_word = word1[:insert_index] + word2 + word1[insert_index:]
+            if len(word1) > 1 and len(word2) > 1:
+                insert_index = random.randint(1, len(word1) - 1)
+                mashup_word = word1[:insert_index] + word2 + word1[insert_index:]
+            else:
+                return word1 + word2
 
         return mashup_word
 
