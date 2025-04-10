@@ -1,7 +1,7 @@
 import os
 
 class ThemeLoader:
-    def __init__(self, themes_file='../data/themes.txt', words_dir='../data/theme_words/'):
+    def __init__(self, themes_file='data/themes.txt', words_dir='data/theme_words/'):
         self.themes_file = themes_file
         self.words_dir = words_dir
         self.themes = []
@@ -11,7 +11,8 @@ class ThemeLoader:
         try:
             with open(self.themes_file, 'r', encoding='utf-8') as file:
                 self.themes = [line.strip() for line in file.readlines()]
-            print(f"Downloaded {len(self.themes)} themes.")
+            print(f"\n{'=' * 50}")
+            print(f"  Successfully downloaded {len(self.themes)} themes.")
             return self.themes
         except FileNotFoundError:
             print(f"File {self.themes_file} not found.")
@@ -25,7 +26,7 @@ class ThemeLoader:
             try:
                 with open(theme_file, 'r', encoding='utf-8') as file:
                     words = [line.strip() for line in file.readlines()]
-                print(f"Downloaded {len(words)} words for theme '{theme}'.")
+                print(f"  Successfully downloaded {len(words)} words for theme '{theme.capitalize()}'.")
             except Exception as e:
                 print(f"Error while downloading theme '{theme}': {e}")
         else:

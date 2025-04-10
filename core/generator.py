@@ -6,7 +6,7 @@ import string
 from core.theme_loader import ThemeLoader
 
 class Generator:
-    def __init__(self, theme_loader: ThemeLoader, nickname_strategies_dir='../strategies/nickname', password_strategies_dir='../strategies/password'):
+    def __init__(self, theme_loader: ThemeLoader, nickname_strategies_dir='strategies/nickname', password_strategies_dir='strategies/password'):
         self.theme_loader = theme_loader
         self.nickname_strategies = self.load_strategies(nickname_strategies_dir)
         self.password_strategies = self.load_strategies(password_strategies_dir)
@@ -50,12 +50,12 @@ class Generator:
 
         if len(nickname) > 30:
             nickname = nickname[:30]
-        print(chosen_strategy)
+        print(f"  Chosen Strategy: {chosen_strategy.__class__.__name__}")
         return nickname
 
     def generate_password(self, nickname):
         chosen_strategy = random.choice(self.password_strategies)
-        print(f"chosen_strategy for pass: {chosen_strategy}")
+        print(f"  Chosen Strategy for Password: {chosen_strategy.__class__.__name__}")
 
         if 'nickname' in inspect.signature(chosen_strategy.generate).parameters:
             password = chosen_strategy.generate(nickname)  # Pass nickname if required
