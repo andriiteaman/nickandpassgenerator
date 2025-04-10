@@ -38,6 +38,7 @@ class Generator:
             words = [theme]
 
         chosen_strategy = random.choice(self.nickname_strategies)
+        print(chosen_strategy)
 
         nickname = chosen_strategy.generate(words)
         return nickname
@@ -57,6 +58,6 @@ if __name__ == '__main__':
     generator = Generator(theme_loader)
 
     nickname = generator.generate_nickname(theme)
-    password = generator.generate_password(nickname, theme)
+    password = "hahah"
 
     print(f"Nickname: {nickname} | Password: {password}")
