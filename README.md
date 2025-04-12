@@ -109,5 +109,3 @@ This project is open-source and released under the MIT License.
 ## Contact
 For any questions or feedback, please contact me at **andriicoder@gmail.com** or visit the [GitHub Repository](https://github.com/andriicoder).
 ```
-
-This `README.md` provides a clear overview, setup instructions, example outputs, and guidelines for contributing and extending the generator.
